@@ -22,7 +22,6 @@ I'm a Full-Stack Developer and a lifelong learner, currently based in Noida, Utt
         </a>
         <p>
           <a href="https://github.com/priyanshutryingtocode/Portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>My personal portfolio website to showcase my skills and projects.</p>
@@ -32,7 +31,6 @@ I'm a Full-Stack Developer and a lifelong learner, currently based in Noida, Utt
       <h3 align="center">Chatbot Project</h3>
       <div align="center">
         <a href="https://github.com/priyanshutryingtocode/ChatbotProject" target="_blank">
-          <img src="https://via.placeholder.com/400x250.png/000000/FFFFFF?text=Chatbot+Project" alt="Chatbot Project"/>
         </a>
         <p>
           <a href="https://github.com/priyanshutryingtocode/ChatbotProject" target="_blank">
