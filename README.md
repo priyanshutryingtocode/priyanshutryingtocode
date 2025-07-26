@@ -18,7 +18,6 @@ I'm a Full-Stack Developer and a lifelong learner, currently based in Noida, Utt
       <h3 align="center">Portfolio</h3>
       <div align="center">
         <a href="https://github.com/priyanshutryingtocode/Portfolio" target="_blank">
-          <img src="https://via.placeholder.com/400x250.png/000000/FFFFFF?text=Portfolio" alt="Portfolio"/>
         </a>
         <p>
           <a href="https://github.com/priyanshutryingtocode/Portfolio" target="_blank">
