@@ -1,10 +1,5 @@
 # Hi there 👋, I'm Priyanshu Srivastava
 
-<p align="left">
-  <a href="https://github.com/priyanshutryingtocode">
-    <img src="https://komarev.com/ghpvc/?username=priyanshutryingtocode&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshutryingtocode" />
-  </a>
-</p>
 
 I'm a Full-Stack Developer and a lifelong learner, currently based in Noida, Uttar Pradesh. I'm passionate about building applications with React and Node.js, and I have a keen interest in everything related to Artificial Intelligence.
 
