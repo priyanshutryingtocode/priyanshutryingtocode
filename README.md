@@ -53,9 +53,6 @@ I'm a Full-Stack Developer and a lifelong learner, currently based in Noida, Utt
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshutryingtocode&show_icons=true&locale=en&theme=tokyonight" alt="priyanshutryingtocode" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshutryingtocode&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyanshutryingtocode" />
-</p>
 
 ---
 
