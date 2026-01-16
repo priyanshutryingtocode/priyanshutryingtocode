@@ -1,8 +1,6 @@
 # Priyanshu Srivastava
 
-> "Simplicity is the soul of efficiency."
 > I am a full-stack developer and AI-ML enthusiast, I love to design unique and interesting web applications, and integrate them with modern AI-ML technologies.
-
 
 ---
 
