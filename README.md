@@ -1,6 +1,6 @@
 # Priyanshu Srivastava
 
-> I am a full-stack developer and AI-ML enthusiast, I love to design unique and interesting web applications, and integrate them with modern AI-ML technologies.
+> I love building things that live on the web and giving them a brain. I combine robust Full-Stack development with a deep curiosity for AI/ML, crafting unique applications that push the boundaries of what modern web technologies can achieve.
 
 ---
 
