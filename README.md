@@ -6,6 +6,7 @@
 
 ### ⧉ The Stack
 
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
@@ -14,7 +15,7 @@
 ### ⚡ Activity
 
 * **Focus:** Building scalable web applications 
-* **Working on:** KinOrbia
+* **Working on:** KinOrbia and Influencer Matcher
 * **Learning:** Cloud Architecture (AWS/Azure)
 
 ---
