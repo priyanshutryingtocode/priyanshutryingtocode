@@ -20,4 +20,4 @@
 
 ---
 
-[Website](https://priyanshutryingtocode.github.io/my-portfolio2/) • [LinkedIn](https://www.linkedin.com/in/priyanshu-srivastava-523783290/) • [Email](mailto:priyanshusrivastava406@gmail.com)
+[Website](https://priyanshu7011.me) • [LinkedIn](https://www.linkedin.com/in/priyanshu-srivastava-523783290/) • [Email](mailto:priyanshusrivastava406@gmail.com)
